@@ -2,6 +2,7 @@
   "name": "web-cv",
   "version": "0.1.0",
   "private": true,
+  "homepage": "https://thanhnt6198.github.io/deploy-github/",
   "scripts": {
     "dev": "next dev",
     "build": "next build",
@@ -16,6 +17,7 @@
     "class-variance-authority": "^0.7.0",
     "clsx": "^2.0.0",
     "cmdk": "^0.2.0",
+    "gh-pages": "^6.1.1",
     "lucide-react": "^0.300.0",
     "next": "14.0.4",
     "react": "^18",
