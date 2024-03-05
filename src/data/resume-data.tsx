@@ -24,6 +24,7 @@ export const RESUME_DATA = {
   initials: "",
   location: "Hanoi, Vietnam",
   locationLink: "https://maps.app.goo.gl/AwbrtXLRuymfdE2n6",
+  personalWebsiteUrl: 'https://thanhnt16.github.io/',
   about:
     "Data engineer with highly experience in designing, implementing, optimizing large-scale data pipelines, data stores, ETL/ELT solutions and ML/AI solution",
   summary:
