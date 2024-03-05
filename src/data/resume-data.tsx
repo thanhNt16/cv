@@ -29,7 +29,7 @@ export const RESUME_DATA = {
     "Data engineer with highly experience in designing, implementing, optimizing large-scale data pipelines, data stores, ETL/ELT solutions and ML/AI solution",
   summary:
     "An experienced and motivated data and software engineer who can design and implement effective process improvement solutions that align with business goals. Applies a rational and systematic problem-solving process using various methods and tools. Demonstrates strong leadership and communication abilities, able to perform well under pressure and collaborate with clients, internal stakeholders, and data team members (DA/BA/DS) to deliver business outcomes.",
-  avatarUrl: "https://avatars.githubusercontent.com/u/1017620?v=4",
+  avatarUrl: "https://avatars.githubusercontent.com/u/50815789?s=400&u=7a0f5715c97c218d44f48b0e5515a2ae662e44e3&v=4",
   contact: {
     email: "thanhnt6198@gmail.com",
     tel: "+84362970011",
