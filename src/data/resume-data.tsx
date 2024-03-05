@@ -83,8 +83,8 @@ export const RESUME_DATA = {
       badges: ["Remote"],
       title: "Fresher -> Fullstack Developer",
       logo: JojoMobileLogo,
-      start: "2018",
-      end: "2020",
+      start: "6/2018",
+      end: "4/2020",
       description:
         "Built websites and applications about Health tech, Retail, Telecom, ... for modern companies. Technologies: React / React Native, Node.js, RESTAPI / GraphQL, MongoDB, MSSQL, PostgreSQL, Docker",
     },
