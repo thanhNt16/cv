@@ -153,7 +153,13 @@ export default function Page() {
                     </div>
                   </div>
                 </CardHeader>
-                <CardContent className="mt-2">{education.degree}</CardContent>
+                {education.url ? (
+                  <a href={education.url} target="_blank"
+                    className="inline-flex items-center gap-1 hover:underline">
+                    <CardContent className="mt-2">{education.degree}</CardContent>
+                    <span className="size-1 rounded-full bg-green-500"></span>
+                  </a>
+                ) : (<CardContent className="mt-2">{education.degree}</CardContent>)}
               </Card>
             );
           })}

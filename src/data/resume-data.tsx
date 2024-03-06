@@ -53,6 +53,15 @@ export const RESUME_DATA = {
       start: "2016",
       end: "2021",
     },
+    {
+      school: "English",
+      degree: "TOEIC 785",
+    },
+    {
+      school: "IBM",
+      degree: "IBM Data Engineer Professional Certificate",
+      url: 'https://coursera.org/share/40f00955df55fcdccf700d8b0a9e7a93',
+    }
   ],
   work: [
     {
@@ -133,7 +142,7 @@ export const RESUME_DATA = {
     },
     {
       title: "Photo Moderation",
-      techStack: ["Golang", "JavaScript", "Tensorflow", "AWS", "OpenAI" ,"Docker", "Kubernetes"],
+      techStack: ["Golang", "JavaScript", "Tensorflow", "AWS", "OpenAI", "Docker", "Kubernetes"],
       description:
         "Photo moderation system to detect and remove inappropriate content for Muslim dating site: Mektoube",
       link: {
