@@ -148,12 +148,13 @@ export default function Page() {
                     <h3 className="font-semibold leading-none">
                       {education.school}
                     </h3>
-                    <div className="text-sm tabular-nums text-gray-500">
-                      {education.start} - {education.end}
+                    {education?.start && education?.end && <div className="text-sm tabular-nums text-gray-500">
+                      {education?.start} - {education?.end}
                     </div>
+                    }
                   </div>
                 </CardHeader>
-                {education.url ? (
+                {education.url !== "" ? (
                   <a href={education.url} target="_blank"
                     className="inline-flex items-center gap-1 hover:underline">
                     <CardContent className="mt-2">{education.degree}</CardContent>

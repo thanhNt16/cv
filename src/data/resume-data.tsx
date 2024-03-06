@@ -52,15 +52,21 @@ export const RESUME_DATA = {
       degree: "Engineer in Information technology",
       start: "2016",
       end: "2021",
+      url: "https://www.hust.edu.vn/"
     },
     {
       school: "English",
       degree: "TOEIC 785",
+      start: "",
+      end: "",
+      url: ""
     },
     {
       school: "IBM",
       degree: "IBM Data Engineer Professional Certificate",
       url: 'https://coursera.org/share/40f00955df55fcdccf700d8b0a9e7a93',
+      start: "",
+      end: "",
     }
   ],
   work: [
